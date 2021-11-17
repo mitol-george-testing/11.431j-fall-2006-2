@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b4dd4be2-20ba-f835-2d74-7cb1ea8d3e39",
+      "0c9cdb07-776e-991d-12f7-d3371ca173cd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Real Estate Finance and Investment",
+  "course_description": "This course is an introduction to the most fundamental concepts, principles, analytical methods and tools useful for making investment and finance decisions regarding commercial real estate assets. As the first of a two-course sequence, this course will focus on the basic building blocks and the \"micro\" level, which pertains to individual properties and deals.\n",
+  "department_numbers": [
+    "11",
+    "15"
+  ],
+  "extra_course_numbers": "15.426J",
+  "primary_course_number": "11.431J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
